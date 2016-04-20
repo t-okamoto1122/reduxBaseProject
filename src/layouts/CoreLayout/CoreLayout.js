@@ -14,6 +14,7 @@ function CoreLayout ({ children }) {
   return (
     <div className='page-container'>
       <div className='view-container'>
+        
         {children}
       </div>
     </div>
