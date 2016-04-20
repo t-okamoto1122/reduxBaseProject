@@ -1,4 +1,4 @@
-t is quoted from https://github.com/davezuko/react-redux-starter-kit
+It is quoted from https://github.com/davezuko/react-redux-starter-kit
 
 
 React Redux Starter Kit
